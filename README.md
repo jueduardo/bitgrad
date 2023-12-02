@@ -17,3 +17,5 @@ c = a * b; c.label='c'
 1. https://en.wikipedia.org/wiki/Scalar_(mathematics)
 2. https://en.wikipedia.org/wiki/Directed_acyclic_graph
 3. https://en.wikipedia.org/wiki/Backpropagation
+4. https://en.wikipedia.org/wiki/Chain_rule
+5. https://github.com/karpathy/micrograd
